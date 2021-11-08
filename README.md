@@ -1,5 +1,7 @@
 # Step-by-step guide to deploy an NFT on Ethereum, OpenSea and IPFS
 
+If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0x7e674C55f954d31B2f86F69d7A58B2BCe84Cf6b4
+
 ## Introduction
 A simple no non-sense guide to deploy your [NFT](https://en.wikipedia.org/wiki/Non-fungible_token) on Ethereum and have it automatically displayed on OpenSea.  
 References:
