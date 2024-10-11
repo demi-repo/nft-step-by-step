@@ -1,0 +1,16 @@
+{
+  "description": "Demi NFT",
+  "external_url": "https://testnets.opensea.io/collection/demi-avatar",
+  "image": "ipfs://QmaVD78mquGBHaseyNc84Mm48qAg4hyWVifkgXDEoqo4Ch",
+  "name": "Demi Avatar",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Hash of Image"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Demi"
+    }
+  ]
+}
